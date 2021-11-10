@@ -1,5 +1,5 @@
 ---
-page_type: dotnet core
+page_type: dotnet core 
 description: "Deploy Python application using GitHub Actions"
 products:
 - GitHub Actions
